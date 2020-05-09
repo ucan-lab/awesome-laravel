@@ -263,6 +263,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
 * [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
 * [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
+* [Docker Laravel](https://github.com/ucan-lab/docker-laravel) - Build laravel development environment with docker-compose
 
 ## Application Hosting
 
